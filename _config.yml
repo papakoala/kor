@@ -1,30 +1,29 @@
 ###### Translations here #######
 
 # SEO
-title: "PapaKoala: Exercices de stimulation précoce pour bébés, faciles à réaliser"
-tagline: Exercices de stimulation précoce pour bébés, faciles à réaliser
-description: Activités de stimulation précoce pour les bébés afin de favoriser le développement du cerveau, de fournir des expériences sensorielles précoces et de créer un sentiment de confiance.
+title: "PapaKoala: 쉽게 할 수 있는 아기 초기 자극 운동"
+tagline: 아기 초기 자극 운동을 쉽게 할 수 있습니다.
+description: 아기의 두뇌 발달을 촉진하고 초기 감각 경험을 제공하며 신뢰감을 구축하기 위한 아기 초기 자극 활동입니다.
+#page title
+page_title: "작은 천재를 키우세요: PapaKoala의 초기 자극 여행을 발견하세요"
+app_name: "PapaKoala: 신생아 발달"
+app_price: 구독 기반
+app_subtitle: 0~1세 아기를 위한 PapaKoala와 함께 두뇌와 유대의 여정을 시작하십시오.
+app_description: "아기의 두뇌 발달에 있어 초기 몇 년은 특별한 기회의 창입니다. 이 시기는 지적 잠재력을 불러일으키고 평생 학습의 기초를 다지는 데 적기입니다. \nPapaKoala, 당신의 개인적인 초기 자극 가이드, 당신의 작은 아이의 인지 성장을 키우고 그들과 깊은 정서적 유대를 형성하도록 권한을 부여합니다."
 
-# page title
-page_title: "Cultivez votre petit génie: Découvrez le parcours de stimulation précoce de PapaKoala"
-app_name: "PapaKoala: Développement du nouveau-né"
-app_price: Basé sur un abonnement
-app_subtitle: Embarquez dans un voyage de puissance cérébrale et de connexion avec PapaKoala pour les bébés de 0 à 1 an.
-app_description: "Les premières années sont une fenêtre d'opportunité exceptionnelle pour le développement du cerveau d'un bébé. C'est le moment idéal pour allumer leur potentiel intellectuel et jeter les bases d'un apprentissage à vie.\nPapaKoala, votre guide personnel de stimulation précoce, vous permet de nourrir la croissance cognitive de votre tout-petit et de créer une profonde connexion émotionnelle avec lui."
-
-# Caractéristiques              Editez, ajoutez ou supprimez des fonctionnalités à présenter.
+# Feature List Edit, add or remove features to be presented.
 features:
-    - title: Libérez le pouvoir de la stimulation précoce
-      description: Immergez votre bébé dans un monde d'expériences stimulantes qui favorisent son développement cérébral et éveillent ses sens. Les activités soigneusement sélectionnées de PapaKoala, guidées par des recherches développementales expertes, introduisent votre petit à une symphonie de couleurs, de sons et de toucher, stimulant ses voies neurales et posant les bases du succès futur.
-      fontawesome_icon_name: baby
+  - title: 초기 자극의 힘을 해제하세요
+    description: 아기를 자극적인 경험의 세계로 몰입시켜 두뇌 발달을 촉진하고 감각을 일깨워줍니다. PapaKoala의 주의 깊게 선별된 활동은 전문가의 발달 연구에 따라 아기에게 시각, 청각 및 촉각의 교향곡을 소개하여 신경 경로를 자극하고 미래의 성공을 위한 기반을 마련합니다.
+    fontawesome_icon_name: baby
 
-    - title: Découvrez le plaisir de l'apprentissage interactif
-      description: Dites adieu aux exercices monotones et adoptez la nature amusante et engageante des activités interactives de PapaKoala. Nos tutoriels vidéo basés sur des vidéos fournissent des directives claires et rendent l'apprentissage une expérience agréable pour les parents et les bébés.
-      fontawesome_icon_name: brain
+  - title: 대화형 학습의 즐거움을 경험하십시오
+    description: 지루한 운동을 그만두고 PapaKoala의 대화형 활동의 재미있고 매력적인 본질을 받아들이십시오. 비디오 기반 튜토리얼은 명확한 지침을 제공하고 부모와 아기 모두에게 즐거운 학습 경험을 제공합니다.
+    fontawesome_icon_name: brain
 
-    - title: Nourritez un lien d'amour et de confiance
-      description: La stimulation précoce ne se limite pas au développement cognitif; il s'agit de créer un lien sécurisant et aimant entre vous et votre bébé. Les activités de PapaKoala mettent l'accent sur le toucher, la forme la plus fondamentale d'engagement d'un enfant, favorisant la confiance, la sécurité et une profonde connexion émotionnelle.
-      fontawesome_icon_name: heart
+  - title: 사랑과 신뢰의 유대를 키우세요
+    description: 초기 자극은인지 발달을 넘어서며, 귀하와 아기 사이의 안전하고 사랑스러운 유대를 만드는 것입니다. PapaKoala의 활동은 촉각, 유아 참여의 가장 기본적인 형태에 중점을 두어 신뢰, 안전 및 깊은 정서적 연결을 조성합니다.
+    fontawesome_icon_name: heart
 
 
 
